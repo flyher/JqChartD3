@@ -15,4 +15,4 @@ JqCircleD3 绘制饼状图
 
 Build: 2014-07-04
 
-Contont: 1.JqLineD3 折线图
+Contont: 1.JqLineD3.html 折线图
