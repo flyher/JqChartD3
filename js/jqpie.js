@@ -88,3 +88,31 @@ function DrawPie(divid, data, tips, width, height) {
 
         });
 }
+
+var obj = {
+    "name": "Simon",
+    "age": "20",
+    "clothing": {
+        "style": "simple",
+        "isDouche": false
+    }
+}
+
+//$(document).ready(function () {
+    //var json="{ \"score\": \"1-50\", \"type\": \"5\" },{ \"score\": \"51-60\", \"type\": \"10\" },{ \"score\": \"61-70\", \"type\": \"25\" },{ \"score\": \"71-80\", \"type\": \"30\" }";
+//    json=JSON.parse
+
+//    var data = new Array();
+//    var i = 0;
+//    var pieClass={
+//        name,
+//        value
+//    };
+
+//    for (var propt in obj) {
+//        alert(propt + ":" + obj[propt]);
+//    }
+    //
+//    alert(data.length);
+//    alert(data[0]);
+//});
