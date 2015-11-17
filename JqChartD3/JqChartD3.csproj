@@ -63,6 +63,7 @@
     <Content Include="JqLine.html" />
     <Content Include="JqPie.html" />
     <Content Include="js\common.js" />
+    <Content Include="js\data.js" />
     <Content Include="js\lib\d3.js" />
     <Content Include="js\lib\d3.min.js" />
     <Content Include="js\lib\d3.v3.js" />
@@ -79,8 +80,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="data.csv" />
-    <Content Include="LICENSE" />
-    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
